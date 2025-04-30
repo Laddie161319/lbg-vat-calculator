@@ -4,7 +4,7 @@ pipeline {
 
   stages {
   
-    }
+    
     stage('Install') {
         steps {
             // Install the ReactJS dependencies
